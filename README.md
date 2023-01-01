@@ -6,7 +6,7 @@ Real-time data analysis of stocks using Kafka.
 
 Tools used-
 
-Programming Language - Python
+Programming Languages - Python, SQL
 
 Amazon Web Service (AWS)- 
 S3 (Simple Storage Service)
